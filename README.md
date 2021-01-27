@@ -1,11 +1,8 @@
 # jpa03-anhvu_nguyen
 
-
-
-
+Repo: https://github.com/ucsb-cs156-w21/jpa03-boax09
 
 On Heroku: https://jpa03-anhvu-nguyen.herokuapp.com/
-
 
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa03-boax09
